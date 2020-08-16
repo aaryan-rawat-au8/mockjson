@@ -27,13 +27,6 @@
            { "id":3 , "item":"train" },
            { "id":4 , "item":"boat" },
            { "id":5 , "item":"tram" }
-        ],          
- "animal":[
-           { "id":1 , "item":"cow" },
-           { "id":2 , "item":"cat" },
-           { "id":3 , "item":"dog" },
-           { "id":4 , "item":"tiger" },
-           { "id":5 , "item":"camel" }
         ]
       
 }
