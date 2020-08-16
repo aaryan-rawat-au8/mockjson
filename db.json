@@ -20,12 +20,5 @@
            { "id":3 , "item":"dog" },
            { "id":4 , "item":"tiger" },
            { "id":5 , "item":"camel" }
-        ],
- "vehicle":[
-           { "id":1 , "item":"taxi" },
-           { "id":2 , "item":"bus" },
-           { "id":3 , "item":"car" },
-           { "id":4 , "item":"train" },
-           { "id":5 , "item":"tractor" }
         ]
 }
