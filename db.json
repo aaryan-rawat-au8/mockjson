@@ -27,8 +27,8 @@
            { "id":3 , "item":"car" },
            { "id":4 , "item":"train" },
            { "id":5 , "item":"tractor" }
-        ] ,
-"fruit":[
+        ],
+  "fruit":[
            { "id":1 , "item":"apple" },
            { "id":2 , "item":"orange" },
            { "id":3 , "item":"banana" },
