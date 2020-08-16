@@ -20,5 +20,13 @@
            { "id":3 , "item":"dog" },
            { "id":4 , "item":"tiger" },
            { "id":5 , "item":"camel" }
-        ]
+        ],
+  
+"fruit":[
+           { "id":1 , "item":"apple" },
+           { "id":2 , "item":"orange" },
+           { "id":3 , "item":"mango" },
+           { "id":4 , "item":"watermelon" },
+           { "id":5 , "item":"peach" }
+        ]           
 }
