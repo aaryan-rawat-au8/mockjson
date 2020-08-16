@@ -20,21 +20,21 @@
            { "id":3 , "item":"dog" },
            { "id":4 , "item":"tiger" },
            { "id":5 , "item":"camel" }
-        ]
+        ],
  "vehicle":[
            { "id":1 , "item":"taxi" },
            { "id":2 , "item":"bus" },
            { "id":3 , "item":"car" },
            { "id":4 , "item":"train" },
            { "id":5 , "item":"tractor" }
-        ] 
+        ] ,
 "fruit":[
            { "id":1 , "item":"apple" },
            { "id":2 , "item":"orange" },
            { "id":3 , "item":"banana" },
            { "id":4 , "item":"grapes" },
            { "id":5 , "item":"watermelon" }
-        ]
+        ],
 "cricket":[
            { "id":1 , "item":"bat" },
            { "id":2 , "item":"ball" },
