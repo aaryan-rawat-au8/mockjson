@@ -34,12 +34,5 @@
            { "id":3 , "item":"banana" },
            { "id":4 , "item":"grapes" },
            { "id":5 , "item":"watermelon" }
-        ],
-"cricket":[
-           { "id":1 , "item":"bat" },
-           { "id":2 , "item":"ball" },
-           { "id":3 , "item":"wicket" },
-           { "id":4 , "item":"batsman" },
-           { "id":5 , "item":"stadium" }
         ]
 }
